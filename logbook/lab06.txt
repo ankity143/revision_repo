@@ -1,0 +1,3 @@
+LAB 6 LOGBOOK - ankit kumar - E26B07F0768
+SETUP: my working directory is labs
+T1 prediction: I think ls / will show about file items

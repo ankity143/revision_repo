@@ -1,0 +1,7 @@
+LAB 7 LOGBOOK - Andrew - roll no. 21
+SETUP: clang version 21.0.0 python3 version 3.9.6
+T1: running hello.py created 8 new files
+T2: file says hello is ??? (copy the whole line)
+T2 prediction: python3 itself is ???
+T2: python3 is ??? so when I run python3 hello.py the CPU executes ??? and reads
+??? as data
